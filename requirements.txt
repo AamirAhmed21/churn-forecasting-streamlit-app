@@ -6,3 +6,5 @@ matplotlib
 tensorboard
 setuptools<81
 streamlit
+keras
+scikeras
