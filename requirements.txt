@@ -4,4 +4,5 @@ numpy
 scikit-learn
 matplotlib
 tensorboard
+setuptools<81
 streamlit
